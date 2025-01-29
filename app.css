@@ -90,7 +90,7 @@ flex-shrink: 0;
 
     body{ 
         background-image:url(./LION_FINAL\ \(3\).gif);
-        position: absolute;
+        position: center;
         overflow: hidden;
         margin: 0;
         
